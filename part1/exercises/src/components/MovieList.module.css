@@ -1,7 +1,18 @@
+body {
+   background-color: rgb(32, 32, 32);
+}
+
+p {
+   color: rgb(222, 219, 219);
+}
+
 .movieText {
-   color: black;
+   color: rgb(197, 178, 4);
+   font-size: 1.3vw;
+   text-align: left;
 }
 
 .movieHeading {
-   color: black;
+   
+   color: rgb(153, 4, 4);
 }
