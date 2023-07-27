@@ -1,3 +1,7 @@
+.choresBody{
+   border: 1px solid white;
+}
+
 .choresText {
    color: rgb(73, 238, 73);
    font-size: 1.3vw;
@@ -6,5 +10,5 @@
 }
 
 .choresHeading {
-   color: black;
+   color: rgb(241, 206, 45);
 }
