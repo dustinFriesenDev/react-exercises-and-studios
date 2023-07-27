@@ -39,7 +39,7 @@
 
 .similarComponents {
   display:flex;
-  justify-content:space-between;
+  justify-content:space-around;
   background-color: #338ca5;
   padding: 20px;
   margin: 10px 0;

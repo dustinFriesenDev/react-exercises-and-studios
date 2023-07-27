@@ -5,10 +5,11 @@
 .choresText {
    color: rgb(73, 238, 73);
    font-size: 1.3vw;
-   text-decoration: underline;
+   
    font-style: italic; 
 }
 
 .choresHeading {
+   text-decoration: underline;
    color: rgb(241, 206, 45);
 }
